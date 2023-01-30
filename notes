@@ -1,0 +1,4 @@
+shodan : html:boiler title:login country:fr.
+found the admin password, thx to an instance ewith the synfony debug activated, password was in the logs
+
+Admin:@dm|n5667
